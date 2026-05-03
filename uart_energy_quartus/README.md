@@ -23,6 +23,8 @@ The design is split into three main blocks:
 
 The top-level project entity is `DE1_SoC`. It wraps `uart_energy_top` and connects the design to board-level pins.
 
+See `docs/block_diagram.md` for the full block diagram and signal map.
+
 ## UART Protocol
 
 The host sends one 16-bit price sample as two UART bytes:
