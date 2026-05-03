@@ -1,0 +1,37 @@
+# Quartus generated output
+db/
+incremental_db/
+output_files/
+simulation/
+*.qws
+*.qdf
+*.srf
+*.rpt
+*.summary
+*.smsg
+*.done
+*.jdi
+*.pin
+*.sof
+*.pof
+*.cdf
+*.sta.rpt
+*.fit.rpt
+*.map.rpt
+*.flow.rpt
+
+# ModelSim / Questa generated output
+work/
+transcript
+vsim.wlf
+*.wlf
+wlft*
+modelsim.ini
+
+# Editor / OS noise
+.vscode/
+.idea/
+*.bak
+*.tmp
+Thumbs.db
+Desktop.ini
